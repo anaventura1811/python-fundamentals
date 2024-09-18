@@ -27,7 +27,7 @@ Neste repositório, você encontrará:
 
 - **Matplotlib**: Visualizações e técnicas de plotagem usando essa poderosa biblioteca Python para representação de dados.
 - **NumPy**: Exercícios e exemplos envolvendo manipulação de arrays, funções matemáticas e mais com o uso do NumPy.
-- **Classes e Herança**: Uma exploração aprofundada das funcionalidades orientadas a objetos do Python, com exemplos práticos de classes, métodos e estruturas de herança.
+- **Classes e Herança**: Exploro algumas das funcionalidades do paradigma de orientação a objetos do Python, a exemplo de classes, métodos e herança.
 - **Outras Bibliotecas**: Também explorarei outras bibliotecas essenciais à medida que avanço em meus estudos, focando em suas aplicações e integrações.
 
 ## Propósito
