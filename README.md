@@ -8,7 +8,7 @@ In this repository, you will find:
 
 - **Matplotlib**: Visualizations and plotting techniques using this powerful Python library for data representation.
 - **NumPy**: Exercises and examples involving array manipulations, mathematical functions, and more using NumPy.
-- **Classes and Inheritance**: A thorough exploration of Python's object-oriented features, with practical examples on classes, methods, and inheritance structures.
+- **Classes and Inheritance**: My exploration of Python's object-oriented features, such as classes, methods, and inheritance structures.
 - **Additional Libraries**: I will also explore other essential libraries as I progress in my studies, focusing on their applications and integrations.
 
 ## Purpose
